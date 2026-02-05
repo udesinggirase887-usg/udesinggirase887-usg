@@ -1,9 +1,3 @@
-## Hi there 👋
-
-<!--
-**udesinggirase887-usg/udesinggirase887-usg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 # 💫 About Me:
 🎓 MSc Statistics student with strong analytical and problem-solving skills. Passionate about transforming data into meaningful insights using statistical modeling and data visualization techniques.<br><br>💻 Skilled in R, Python, Power BI, and Microsoft Excel for data analysis, statistical computing, and dashboard development. Experienced in data cleaning, exploratory data analysis, hypothesis testing, regression modeling, and predictive analytics. I enjoy working on real-world datasets to improve decision-making through data-driven solutions.<br><br>🚀 Currently seeking opportunities to apply statistical knowledge in research, data analytics, and data science projects.
 
